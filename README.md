@@ -1,28 +1,22 @@
 ### 🚀 Senior Full Stack Python Engineer | React, Angular, Django, Flask, FastAPI | Cloud & AI Enthusiast
 
-Hi there! 👋 I'm a Full-Stack Developer with 10+ years of experience building enterprise-grade web and cloud applications. I specialize in React, Angular, Python (Django, Flask, FastAPI), and Node.js, with strong skills in REST/GraphQL APIs, microservices, and cloud-native development.
-
-🔧 Tech Stack Highlights
-
-• Frontend: React, Next.js, Angular, Vue, TypeScript, Tailwind CSS
-
-• Backend: Python, Django, Flask, FastAPI, Django REST Framework, Flask-RESTful, Celery, SQLAlchemy, Node.js
-
-• Databases: PostgreSQL, MySQL, MongoDB, MariaDB, SQL Server, Oracle, Redis
-
-• AI/ML : TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy, SpaCy, NLTK, OpenCV, MoviePy, NLP, LangChain, RAG
-
-• Testign: Pytest, Jest, Mocha, Cypress, Selenium, Supertest
+Hi there! 👋 I'm a Full-Stack Developer with 10+ years of experience building enterprise-grade web and cloud applications. I specialize in React, Angular, Python (Django, Flask, FastAPI), and Node.js, with strong skills in REST/GraphQL APIs, microservices, cloud-native development, AI/ML solutions, and third-party API integrations.
 
 💡 Experience Snapshot
 
 • Built scalable platforms in fintech, eCommerce, healthcare, and SaaS
 
+• Integrated third-party APIs and services to streamline operations and extend platform capabilities
+
+• Implemented AI/ML features such as recommendation engines, NLP-based search, and predictive analytics
+
 • Enhanced deployment processes with CI/CD and cloud automation
 
 • Mentored developers and led cross-functional remote teams
 
-• Integrated APIs and AI-driven features for smarter user experiences
+🧠 How I Work
+
+I’m passionate about building intelligent, scalable systems. I take a product-focused approach to development, prioritizing clean code, performance, and user experience. I enjoy crafting AI-enhanced solutions and seamlessly connecting platforms through robust API integrations.
 
 🔍 Looking for opportunities in:
 
