@@ -3,19 +3,29 @@
 Hi there! 👋 I'm a Full-Stack Developer with 10+ years of experience building enterprise-grade web and cloud applications. I specialize in React, Angular, Python (Django, Flask, FastAPI), and Node.js, with strong skills in REST/GraphQL APIs, microservices, and cloud-native development.
 
 🔧 Tech Stack Highlights
+
 • Frontend: React, Next.js, Angular, Vue, TypeScript, Tailwind CSS
+
 • Backend: Python, Django, Flask, FastAPI, Django REST Framework, Flask-RESTful, Celery, SQLAlchemy, Node.js
+
 • Databases: PostgreSQL, MySQL, MongoDB, MariaDB, SQL Server, Oracle, Redis
+
 • AI/ML : TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy, SpaCy, NLTK, OpenCV, MoviePy, NLP, LangChain, RAG
+
 • Testign: Pytest, Jest, Mocha, Cypress, Selenium, Supertest
 
 💡 Experience Snapshot
+
 • Built scalable platforms in fintech, eCommerce, healthcare, and SaaS
+
 • Enhanced deployment processes with CI/CD and cloud automation
+
 • Mentored developers and led cross-functional remote teams
+
 • Integrated APIs and AI-driven features for smarter user experiences
 
 🔍 Looking for opportunities in:
+
 Senior Full-Stack Roles • Cloud & AI Platforms • Tech Leadership
 
 Let’s connect and build something amazing! 🤝 
