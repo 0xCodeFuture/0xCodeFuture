@@ -1,4 +1,4 @@
-### Senior Full Stack Python Engineer | Database | DevOps | AI/ML
+### 🚀 Senior Full Stack Python Engineer | React, Angular, Django, Flask, FastAPI | Cloud & AI Enthusiast
 
 Hi there! 👋 I'm a Full-Stack Developer with 10+ years of experience building enterprise-grade web and cloud applications. I specialize in React, Angular, Python (Django, Flask, FastAPI), and Node.js, with strong skills in REST/GraphQL APIs, microservices, and cloud-native development.
 
