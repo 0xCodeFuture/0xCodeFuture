@@ -29,5 +29,4 @@ Let’s connect and build cutting-edge digital experiences together! 🤝
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=PrinceDevWorks&show_icons=true&count_private=true&theme=algolia"/>
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceDevWorks&layout=compact&theme=algolia&count_private=true" /> 
-<img height="150px" />
 <br/>  
