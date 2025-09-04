@@ -28,5 +28,5 @@ Let’s connect and build cutting-edge digital experiences together! 🤝
 
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=0xCodeFuture&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCodeFutureDevWorks&layout=compact&theme=algolia&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCodeFuture&layout=compact&theme=algolia&count_private=true" />
 <br/>  
