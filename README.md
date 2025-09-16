@@ -2,20 +2,17 @@
 
 Hi there! 👋 I'm a Full-Stack Developer with 10+ years of experience building enterprise-grade web and cloud applications. I specialize in React, Angular, Python (Django, Flask, FastAPI), Node.js (Express.js, Nest.js) and Ruby on Rails, with strong skills in REST/GraphQL APIs, microservices, cloud-native development, AI/ML solutions, and third-party API integrations.
 
-💡 Experience Snapshot
-
+💡 Experience Snapshot</br>
 • Built scalable platforms in fintech, eCommerce, healthcare, and SaaS</br>
 • Integrated third-party APIs and services to streamline operations and extend platform capabilities</br>
 • Implemented AI/ML features such as recommendation engines, NLP-based search, and predictive analytics</br>
 • Enhanced deployment processes with CI/CD and cloud automation</br>
 • Mentored developers and led cross-functional remote teams
 
-🧠 How I Work
-
+🧠 How I Work</br>
 I’m passionate about building intelligent, scalable systems. I take a product-focused approach to development, prioritizing clean code, performance, and user experience. I enjoy crafting AI-enhanced solutions and seamlessly connecting platforms through robust API integrations.
 
-🔍 Looking for opportunities in:
-
+🔍 Looking for opportunities in:</br>
 Senior Full-Stack Roles • Cloud & AI Platforms • Tech Leadership
 
 Let’s connect and build cutting-edge digital experiences together! 🤝
