@@ -4,14 +4,10 @@ Hi there! 👋 I'm a Full-Stack Developer with 10+ years of experience building 
 
 💡 Experience Snapshot
 
-• Built scalable platforms in fintech, eCommerce, healthcare, and SaaS
-
-• Integrated third-party APIs and services to streamline operations and extend platform capabilities
-
-• Implemented AI/ML features such as recommendation engines, NLP-based search, and predictive analytics
-
-• Enhanced deployment processes with CI/CD and cloud automation
-
+• Built scalable platforms in fintech, eCommerce, healthcare, and SaaS</br>
+• Integrated third-party APIs and services to streamline operations and extend platform capabilities</br>
+• Implemented AI/ML features such as recommendation engines, NLP-based search, and predictive analytics</br>
+• Enhanced deployment processes with CI/CD and cloud automation</br>
 • Mentored developers and led cross-functional remote teams
 
 🧠 How I Work
